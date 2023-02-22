@@ -1,5 +1,6 @@
 [
   {
-    "package": "RGCxGC"
+    "package": "RGCxGC",
+    "oncran": true
   }
 ]
